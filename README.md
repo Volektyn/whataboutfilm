@@ -1,3 +1,3 @@
 # whataboutfilm
 
-Scrapper, based on Flask, which returns random film poster
+Scrapper, based on Flask and BeautifulSoup, which returns random film poster
